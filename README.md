@@ -7,3 +7,4 @@ From making a child theme, registering a new custom post type and so one..
 
 In parent theme you can see the tasks in child theme you can see what have i done, of course they send me a psd file whit everything i needed.
 
+You need to this test in 4 hours, so that's why my single.php page is not customised in css as well as my archive.php.
